@@ -1,16 +1,16 @@
-# Nexio Development
+# Nexio Development 🚀
 
 Welcome to **Nexio Development** — your go-to software development company specializing in creating high-quality applications across all platforms, including Web, iOS, Android, Windows, and more.
 
 ---
 
-## About Us
+## About Us 🧑‍💻
 
 At Nexio Development, we build modern, scalable, and user-friendly applications tailored to your business needs. Whether you need a sleek mobile app, a powerful desktop application, or a responsive web platform, we have the expertise to deliver.
 
 ---
 
-## What We Do
+## What We Do 💡
 
 - **Web Applications**: Responsive and feature-rich apps.
 - **Mobile Applications**: Cross-platform apps for iOS and Android.
@@ -19,7 +19,7 @@ At Nexio Development, we build modern, scalable, and user-friendly applications 
 
 ---
 
-## Contact
+## Contact 📬
 
 For inquiries, business proposals, or collaboration, reach out to us:
 
@@ -30,7 +30,7 @@ For inquiries, business proposals, or collaboration, reach out to us:
 
 ---
 
-## License
+## License 📄
 
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
